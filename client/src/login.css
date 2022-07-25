@@ -1,0 +1,18 @@
+div{
+  max-width: 600px;
+  margin: 0 auto  0 auto;
+  text-align: center;
+  
+}
+
+#container{
+  margin-top: 55%;
+}
+a{
+  display: block;
+  margin-bottom: 1rem;
+}
+
+Button{
+  width: 280px;
+}
